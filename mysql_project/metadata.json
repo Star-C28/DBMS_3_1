@@ -1,0 +1,6 @@
+{
+  "name": "Library Management",
+  "description": "A web application to manage books, authors, borrowing records, and users with a Cloud SQL PostgreSQL database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
